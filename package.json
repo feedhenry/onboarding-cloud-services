@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.4.1",
+    "bootstrap-sass": "^3.4.1",
     "jquery": "3.4.0",
     "patternfly": "^3.59.1",
     "popper.js": "^1.15.0"
